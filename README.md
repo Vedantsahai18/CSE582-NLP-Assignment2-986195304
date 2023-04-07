@@ -10,7 +10,7 @@ This notebook contains the implementation of the CNN layers on the provided data
 
 2. LSTM-Classification.ipynb
 
-This notebook contains the implementation of the LSTM layers on the provided dataset with two different activation function which is SIgmoid+TanH and ReLU
+This notebook contains the implementation of the LSTM layers on the provided dataset with two different activation function which is Sigmoid+TanH and Sigmoid+ReLU
 
 ## References
 
